@@ -1,0 +1,1 @@
+for /L %%i in (1,1,150) do echo %%i > %%i.txt
